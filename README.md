@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suman Maharjan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Lancemeup as a Frontend Intern.**
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
